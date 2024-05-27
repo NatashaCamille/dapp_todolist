@@ -24,4 +24,7 @@ mapping(uint => Task) public tasks;
         tasks[taskCount] = Task(taskCount, _content, false);
     }
 
+pragma
+
+ 
 }
